@@ -32,6 +32,7 @@ DEV:
   `STORE_PASSWORD`: Store password of your key store file.
 * Trigger build in Github Actions
 * Download the `aaps.zip` file in `Artifacts`
+* 
 
 ### 如果你熟悉安卓开发：
 * 克隆此代码仓库到你自己的Github账号
